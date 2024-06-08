@@ -6,7 +6,7 @@ public class Main {
     }
 
     public static void print5Stars() {
-        System.out.pirntln("*****");
+        System.out.println("**********");
 }
 
 }
